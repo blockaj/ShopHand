@@ -1,11 +1,15 @@
 import { useState } from 'react'
 import './App.css'
-import DecToFrac from './components/DecToFrac.tsx';
+import NavBar from './components/NavBar';
+import DecToFrac from './components/DecToFrac';
+
 
 const App:React.FC = () => {
     return (
         <div className="App">
-            <DecToFrac />
+            <NavBar>
+                <DecToFrac />
+            </NavBar>
         </div>
     );
 }
