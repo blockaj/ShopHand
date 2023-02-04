@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label=". =&gt; /"
+       id="text842"
+       style="font-size:266.667px;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';stroke:#000000;stroke-width:7.5"
+       transform="matrix(0.87290128,0,0,2.6193885,-85.49779,-39.488461)">
+      <path
+         d="m 132.10555,161.527 q 0,-7.45561 17.0898,-12.539 18.2291,-5.42225 43.2941,-5.42225 25.06505,0 42.15482,5.42225 18.2291,5.08339 18.2291,12.539 0,7.45561 -18.2291,12.87789 -17.08977,5.08336 -42.15482,5.08336 -25.065,0 -43.2941,-5.08336 -17.0898,-5.42228 -17.0898,-12.87789 z"
+         style="font-family:Didot;-inkscape-font-specification:Didot;stroke-width:17.4761"
+         id="path952" />
+      <path
+         d="m 391.22155,40.520759 161.05555,69.264291 -0.53372,7.64702 -160.52183,62.19925 v -31.79584 l 140.2466,-33.96012 -140.2466,-42.706717 z"
+         style="font-family:Didot;-inkscape-font-specification:Didot"
+         id="path956"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         d="M 612.0054,37.079964 648.76,53.923515 573.3759,188.7652 536.82844,175.12419 Z"
+         style="font-family:Didot;-inkscape-font-specification:Didot"
+         id="path958"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:4.86488"
+       id="rect1057"
+       width="248.65292"
+       height="65.0998"
+       x="118.53856"
+       y="223.4501" />
+  </g>
+</svg>
