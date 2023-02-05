@@ -1,5 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import './index.css'; 
 import dtf from '../../assets/dtf.svg';
 import gauge from '../../assets/gauge.svg';
 import angle from '../../assets/angefind.svg';
